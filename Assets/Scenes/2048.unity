@@ -258,6 +258,6 @@ MonoBehaviour:
   _boardPrefab: {fileID: 2047892140294736523, guid: ca724947793fa3a4b825c7f50f9db485, type: 3}
   _types:
   - Value: 2
-    Color: {r: 0.8396226, g: 0.8193778, b: 0.07524917, a: 0}
+    Color: {r: 0.8745098, g: 0.4, b: 0.7372549, a: 1}
   - Value: 4
-    Color: {r: 0.056692798, g: 0.9245283, b: 0.28839594, a: 0}
+    Color: {r: 0.3764706, g: 0.7372549, b: 0.25882354, a: 1}
